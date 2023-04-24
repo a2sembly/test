@@ -1,5 +1,5 @@
 # Variables
-$uri = "https://github.com/a2sembly/test/blob/main/anydesk.exe" # Replace with the actual URI
+$uri = "https://github.com/a2sembly/test/raw/main/AnyDesk.exe" # Replace with the actual URI
 $outputFilePath = "C:\temp\anydesk.exe" # Replace with your desired file path
 
 # Download and save the file
